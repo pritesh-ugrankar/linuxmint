@@ -1,1 +1,8 @@
 sudo apt install tlp tlp-rdw tp-smapi-dkms acpi-call-dkms lm-sensors git vim-gnome build-essential subversion curl linux-headers$(uname -r) p7zip-full
+
+wget https://www.vmware.com/go/getplayer-linux
+sudo apt install gnome-tweak-tool 
+
+mkdir ~/.local/share/icons
+ svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
+ svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
