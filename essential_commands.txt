@@ -1,0 +1,1 @@
+sudo apt install tlp tlp-rdw tp-smapi-dkms acpi-call-dkms lm-sensors git vim-gnome build-essential subversion curl linux-headers$(uname -r) p7zip-full
